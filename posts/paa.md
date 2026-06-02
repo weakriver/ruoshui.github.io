@@ -3,7 +3,7 @@ title: Projection Activated Attention
 date: 2026-05-16
 tags: [好玩的]
 excerpt: Attention as Projection Activations
-related: [projective-attention-framework, hpa, otda, back-to-sdpa]
+related: [projective-attention, hpa, otda, back-to-sdpa]
 ---
 
 *Two attention mechanisms that use token-conditioned hyperplane activation layer*

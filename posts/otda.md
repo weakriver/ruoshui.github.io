@@ -2,7 +2,7 @@
 title: "Oriented Two-sided Attention"
 tags: [好玩的]
 date: 2026-05-29
-related: [projective-attention-framework, hpa, paa, back-to-sdpa]
+related: [projective-attention, hpa, paa, back-to-sdpa]
 excerpt: Attention with Oriented Two-Sided Decoding
 ---
 
