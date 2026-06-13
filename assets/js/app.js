@@ -22,6 +22,7 @@ const TAG_TRANSLATIONS = {
   "全部":   "All",
   "好玩的": "Fun stuff",
   "念":     "Thoughts",
+  "瞎扯":   "rambling",
   "观点":   "Opinion",
   "方法":   "Method",
 };
